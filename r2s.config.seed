@@ -38,3 +38,11 @@ CONFIG_DRIVER_11N_SUPPORT=y
 CONFIG_DRIVER_11W_SUPPORT=y
 
 CONFIG_PACKAGE_luci-app-oled=y
+
+CONFIG_PACKAGE_kmod-shortcut-fe-cm=m
+CONFIG_PACKAGE_luci-app-adguardhome=m
+CONFIG_PACKAGE_kmod-fs-cifs=m
+CONFIG_PACKAGE_kmod-fs-ksmbd=m
+CONFIG_PACKAGE_aria2=m
+CONFIG_PACKAGE_luci-app-aria2=m
+CONFIG_PACKAGE_luci-app-turboacc=m
